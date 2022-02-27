@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @israelmejias.
 - 👀 I’m interested in learning coding and eventually becoming a full stack developer.
-- 🌱 I’m currently learning javascript on the odin project.
+- 🌱 I’m currently learning python on the 100 days of code.
 - 💞️ I’m looking to collaborate on any kind of project in web development.
 - 📫 You can reach me through github messages or discord. 
